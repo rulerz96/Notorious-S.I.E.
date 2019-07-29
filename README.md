@@ -29,6 +29,23 @@ A simple python reverse shell that connects automatically to the server.
 - If you close the connection in a safe way(typing exit) the shell will stay alive.
 - So any time you want to run the server, the shell will give you a brand new connection.
 
+- This is for educational purpose only.
+- DO NOT use this in any different way than studying basically the roots of connections.
+
+# Some POC:
+
+- Run shell
+
+![alt text](images_readme/sie.png)
+
+- Run server
+
+![alt text](images_readme/connection.png)
+
+- Exit connection
+
+![alt text](images_readme/exit.png)
+
 # TODO:
 
 - attach a keylogger
