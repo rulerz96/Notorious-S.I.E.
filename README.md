@@ -30,7 +30,7 @@ A simple python reverse shell that connects automatically to the server.
 - So any time you want to run the server, the shell will give you a brand new connection.
 
 - This is for educational purpose only.
-- DO NOT use this in any different way than studying basically the roots of connections.
+- DO NOT use this in any different way than basically studying the roots of connections out of it.
 
 # Some POC:
 
